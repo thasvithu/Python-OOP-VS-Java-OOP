@@ -1,1 +1,8 @@
 # python-OOP-VS-Java-OOP
+## 1. Class
+## 2. Objects
+## 3. Constructor
+## 4. Class Variables
+## 5. Instance Variables / Object Variables
+## 6. Methods --> Class Methods / Instance Method
+## 7. Inheritance
